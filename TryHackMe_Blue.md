@@ -6,6 +6,8 @@ Room/Box name: Blue
 
 Platform: TryHackMe
 
+Link: https://tryhackme.com/room/blue
+
 Difficulty: Easy
 
 ## Overview
