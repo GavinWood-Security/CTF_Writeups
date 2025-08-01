@@ -1,1 +1,1 @@
-# TryHackMe LazyAdmin 
+# TryHackMe: LazyAdmin 
